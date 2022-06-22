@@ -9,3 +9,5 @@ This open-source program lets the user experiment and simulate this concept. The
 The user can change the number of mutations occuring at each cycle and the likelihood of character mutation.
 
 New functionalities are intended to be added soon.
+
+![Screenshot](mainScreen.png)
