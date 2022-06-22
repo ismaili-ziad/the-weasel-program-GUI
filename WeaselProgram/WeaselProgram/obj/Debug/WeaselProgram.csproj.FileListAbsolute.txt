@@ -1,0 +1,11 @@
+D:\WP\WeaselProgram\WeaselProgram\bin\Debug\WeaselProgram.exe.config
+D:\WP\WeaselProgram\WeaselProgram\bin\Debug\WeaselProgram.exe
+D:\WP\WeaselProgram\WeaselProgram\bin\Debug\WeaselProgram.pdb
+D:\WP\WeaselProgram\WeaselProgram\obj\Debug\WeaselProgram.csproj.AssemblyReference.cache
+D:\WP\WeaselProgram\WeaselProgram\obj\Debug\WeaselProgram.Properties.Resources.resources
+D:\WP\WeaselProgram\WeaselProgram\obj\Debug\WeaselProgram.csproj.GenerateResource.cache
+D:\WP\WeaselProgram\WeaselProgram\obj\Debug\WeaselProgram.csproj.CoreCompileInputs.cache
+D:\WP\WeaselProgram\WeaselProgram\obj\Debug\WeaselProgram.exe
+D:\WP\WeaselProgram\WeaselProgram\obj\Debug\WeaselProgram.pdb
+D:\WP\WeaselProgram\WeaselProgram\obj\Debug\WeaselProgram.MainForm.resources
+D:\WP\WeaselProgram\WeaselProgram\obj\Debug\WeaselProgram.Settings.resources
