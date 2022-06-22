@@ -10,4 +10,7 @@ The user can change the number of mutations occuring at each cycle and the likel
 
 New functionalities are intended to be added soon.
 
-![Screenshot](mainScreen.png)
+# Overview
+Demonstration of the program with the sentence 'ME THINKS LIKE A WEASEL'. Default parameters were used.
+
+![Screenshot](mainScreen.PNG)
