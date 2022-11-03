@@ -11,7 +11,7 @@ The user can change the number of mutations occuring at each cycle and the likel
 New functionalities are intended to be added soon.
 
 # Download
-To get started, please click on [this link](https://download2280.mediafire.com/nnh39oqv6r6g/6ltcro09aoo3o30/The+Weasel+Program+%28executable%29.rar) and download the RAR file. Open the executable inside.
+To download the program (.exe file), please click on [this link](https://sourceforge.net/projects/weasal-program/files/Weasel%20Program.exe/download). No need for installation.
 
 # Overview
 Demonstration of the program with the sentence 'ME THINKS LIKE A WEASEL'. Default parameters were used.
